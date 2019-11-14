@@ -1,0 +1,111 @@
+.estilo {
+	font-size:20px;
+    font-family:algerian;
+    text-align: center;
+    color:blue;
+
+
+}
+
+.p{
+	color:black;
+	font-size:15px;
+	font-family: arial;
+	background: yellow;
+    
+
+}
+
+.imagen{
+	width: 250px;
+	height: 120px;
+	
+
+}
+
+
+
+
+.imagen2{
+	width: 25px;
+	height: 20px;
+}
+
+.imageninicio{
+	width:1420px;
+	height: 180px;
+}
+
+.imglogo{
+	height: 25px;
+	width: 30px;
+}
+.fooestilo{
+	background-color: black;
+	color:red;
+	
+	font-family: sans-serif;
+	height: 220px;
+	
+	text-align-last: right;
+   height: 30px;
+
+   
+}
+
+.lista{
+	list-style-type: none;
+	background-color:red;
+	font-family: algerian;
+	font-size:15px; 
+	text-decoration: none;
+	display: inline-block;
+	padding: 10px;
+	float:left;
+	
+}
+
+
+
+
+.menu{
+
+  padding: .3em;
+  display: block;
+  text-decoration: none;
+  color: #333;
+  background: #F4F4F4;
+  border-top: 1px solid #7C7C7C;
+  border-right: 1px solid #7C7C7C;
+  border-bottom: 1px solid #9C9C9C;
+  width: 1360px;
+  height: 30px;
+  text-align: center;
+}
+
+
+
+
+
+
+
+.section-estile{
+  background-color: gray;
+  
+}
+
+.h3-e{
+	text-align: center;
+	font-family: algerian;
+	background:black;
+	color: #F4F4F4;
+}
+
+.aside-e{
+
+	background-color:gray;
+	width: 120px;
+	color: blue;
+	margin-left: 1230px;
+	height: 200px;
+}
